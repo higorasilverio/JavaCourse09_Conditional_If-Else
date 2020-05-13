@@ -1,0 +1,1 @@
+Verifying if the two given numbers are multiples.

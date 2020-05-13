@@ -8,7 +8,6 @@ public class Main {
 		
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("*** Verifying if the two numbers given are multiples ***");
 		System.out.print("Enter the first number: ");
 		int A = scanner.nextInt();
 		System.out.print("Enter the second number: ");
